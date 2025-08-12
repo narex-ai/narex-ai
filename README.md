@@ -1,4 +1,4 @@
-🚀 Agentic AI Architect | E2E AI Full-Stack Developer | Workflow Automation Expert
+## 🚀 Agentic AI Architect | E2E AI Full-Stack Developer | Workflow Automation Expert
 
 I design and deliver intelligent, end-to-end AI systems that don’t just “run” — they think, decide, and adapt. With 5+ years building Agentic AI solutions, workflow automation pipelines, and full-stack platforms, I bridge deep technical expertise with a sharp sense for real-world impact.
 Whether it’s architecting multi-agent AI systems, integrating LLMs with enterprise data, or automating mission-critical workflows across tools like LangChain, CrewAI, Zapier, Make, n8n, I build solutions that work seamlessly from concept to deployment.
