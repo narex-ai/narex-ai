@@ -88,7 +88,7 @@ While I can't share proprietary work code, here are some areas where I've made s
 
 ## 📫 Let's Connect!
 
-**📧 Email**: jamesduncan@gmail.com
+**📧 Email**: narexapollo@gmail.com
 **📍 Location**: The Dalles, OR
 
 ## 🤝 I'm interested in collaborating on:
