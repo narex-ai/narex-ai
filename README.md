@@ -1,7 +1,7 @@
 # Hi there, I'm  🚀AI Engineer | Data Scientist | ML Innovator
 
 
-Welcome to my GitHub! I'm a passionate AI Engineer and Data Scientist with 6+ years of hands-on experience building AI-driven solutions that generate measurable business impact. I specialize in creating intelligent systems that bridge the gap between complex data and actionable insights.
+Welcome to my GitHub! I'm a passionate AI Engineer and Data Scientist with 12+ years of hands-on experience building AI-driven solutions that generate measurable business impact. I specialize in creating intelligent systems that bridge the gap between complex data and actionable insights.
 
 ## 🔭 What I'm currently working on
 
