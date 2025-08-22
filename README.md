@@ -39,13 +39,19 @@ Welcome to my GitHub! I'm a passionate AI Engineer and Data Scientist with 12+ y
 
 ## 🛠️ Technical Stack
 
-**Languages**: Python, R, SQL
+**Languages**: Python, R, GoLang, SQL
 
 **ML Frameworks**: TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
 
-**NLP Tools**: Hugging Face Transformers, LangChain, SpaCy, NLTK
+**Agentic AI**: LangChain, LangGraph, MCP, Multi Agent, Voice/Video Agent, A2A
+
+**NLP Tools**: Hugging Face Transformers, SpaCy, NLTK
 
 **Data Platforms**: Snowflake, Databricks, Apache Airflow, Hadoop
+
+**Automation Skills**: n8n, Zapier, Make.com, UiPath, Dagster, Prefect, Kedro
+
+**Dev/MLOps**: Docker, Kubernetes, CI/CD, MLflow, Weights & Biases, Neptune.ai.
 
 **Cloud Services**: AWS, Google Cloud Platform, Microsoft Azure
 
