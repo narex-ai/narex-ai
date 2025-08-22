@@ -53,29 +53,6 @@ Welcome to my GitHub! I'm a passionate AI Engineer and Data Scientist with 6+ ye
 
 ## 🏆 Key Achievements
 
-#### At ThoughtSpot (2022-2025)
-🎯 Built Agentic Analytics Platform integrating AI agents with large-scale BI environments
-
-📈 Improved query interpretation accuracy by 30+ % using fine-tuned LLMs
-
-⚡ Reduced manual modeling overhead by ~70% through automated metadata ingestion
-
-🛡️ Implemented enterprise-grade security with RBAC and audit logging
-
-#### At EDITED (2020-2022)
-
-💰 Increased margins by +3.2% with ML-powered price optimization for 2M+ SKUs
-
-🎯 Achieved 0.8 Silhouette Score in customer segmentation, boosting retention by +12%
-
-🛒 Improved add-to-cart rate by 7% through personalized recommendation engines
-
-📊 Reduced churn by 18% with predictive models achieving 0.87 ROC-AUC
-
-## 🌟 Featured Projects
-
-While I can't share proprietary work code, here are some areas where I've made significant contributions:
-
 **🔮 Intelligent BI Agents**: Natural language interfaces for complex data queries
 
 **💡 Recommendation Systems**: Collaborative filtering engines serving 250K+ daily recommendations  
