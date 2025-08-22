@@ -1,39 +1,109 @@
-## 🚀 Agentic AI Architect | E2E AI Full-Stack Developer | Workflow Automation Expert
-
-I design and deliver intelligent, end-to-end AI systems that don’t just “run” — they think, decide, and adapt. With 5+ years building Agentic AI solutions, workflow automation pipelines, and full-stack platforms, I bridge deep technical expertise with a sharp sense for real-world impact.
-Whether it’s architecting multi-agent AI systems, integrating LLMs with enterprise data, or automating mission-critical workflows across tools like LangChain, CrewAI, Zapier, Make, n8n, I build solutions that work seamlessly from concept to deployment.
+# Hi there, I'm  🚀AI Engineer | Data Scientist | ML Innovator
 
 
+Welcome to my GitHub! I'm a passionate AI Engineer and Data Scientist with 6+ years of hands-on experience building AI-driven solutions that generate measurable business impact. I specialize in creating intelligent systems that bridge the gap between complex data and actionable insights.
 
-### 👍What I Bring:
+## 🔭 What I'm currently working on
 
-•	Agentic AI & LLM Expertise – Design and deploy autonomous AI agents capable of reasoning, decision-making, and goal-driven actions.
+• **Agentic Analytics Platforms** - Building next-generation BI solutions with natural language interfaces
 
-•	Full-Stack AI Platforms – From backend APIs to modern, responsive UIs.
+• **LLM Integration Projects** - Developing enterprise-grade AI agents with advanced NLP capabilities  
 
-•	Workflow & Process Automation – Custom integrations with HubSpot, Salesforce, Airtable, API orchestration, RPA, and real-time data pipelines.
+• **ML Pipeline Optimization** - Streamlining end-to-end machine learning workflows for production environments
 
-•	Data Engineering & Analytics – ETL pipelines, data prep, analytics dashboards, and ML model integration.
+## 🎯 My Expertise
 
-•	Scalable Architectures – From MVPs to production-grade systems that scale with your growth.
+### 🤖 AI & Machine Learning
 
+• Large Language Models (LLMs) & Transformers
 
+• Natural Language Processing (NLP)
 
-	
-### 🔨Typical Projects:
+• Deep Learning & Neural Networks
 
-•	Built an Agentic Analytics Platform that autonomously extracts and visualizes real-time insights.
+• Generative AI & Prompt Engineering
 
-•	Developed a multi-agent RAG system for research automation at scale.
+• MLOps & LLMOps
 
-•	Integrating AI copilots into CRM systems to automate lead qualification and outreach.
+### 📊 Data Science & Analytics
 
-•	Creating multi-step, cross-tool workflows that cut manual work by 80%+.
+• Predictive Modeling & Statistical Analysis
 
-•	Deploying AI-driven recommendation engines and conversational agents.
+• Customer Segmentation & Retention Models
 
+• Recommendation Systems
 
- 
+• Price Optimization Engines
 
-I’m a strategic builder — I care about the “why” behind your project as much as the “how.” My solutions are engineered for clarity, maintainability, and ROI. And because I handle architecture, coding, and integration end-to-end, you get one partner who sees the full picture.
-I combine architecture-level thinking with hands-on coding — delivering systems that are powerful, reliable, and future-ready. Because I work end-to-end, you get one partner who owns the solution from concept to deployment.
+• Anomaly Detection & KPI Alerting
+
+## 🛠️ Technical Stack
+
+**Languages**: Python, R, SQL
+
+**ML Frameworks**: TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
+
+**NLP Tools**: Hugging Face Transformers, LangChain, SpaCy, NLTK
+
+**Data Platforms**: Snowflake, Databricks, Apache Airflow, Hadoop
+
+**Cloud Services**: AWS, Google Cloud Platform, Microsoft Azure
+
+**Visualization**: Tableau, Power BI, Matplotlib, Streamlit
+
+## 🏆 Key Achievements
+
+#### At ThoughtSpot (2022-2025)
+🎯 Built Agentic Analytics Platform integrating AI agents with large-scale BI environments
+
+📈 Improved query interpretation accuracy by 30+ % using fine-tuned LLMs
+
+⚡ Reduced manual modeling overhead by ~70% through automated metadata ingestion
+
+🛡️ Implemented enterprise-grade security with RBAC and audit logging
+
+#### At EDITED (2020-2022)
+
+💰 Increased margins by +3.2% with ML-powered price optimization for 2M+ SKUs
+
+🎯 Achieved 0.8 Silhouette Score in customer segmentation, boosting retention by +12%
+
+🛒 Improved add-to-cart rate by 7% through personalized recommendation engines
+
+📊 Reduced churn by 18% with predictive models achieving 0.87 ROC-AUC
+
+## 🌟 Featured Projects
+
+While I can't share proprietary work code, here are some areas where I've made significant contributions:
+
+**🔮 Intelligent BI Agents**: Natural language interfaces for complex data queries
+
+**💡 Recommendation Systems**: Collaborative filtering engines serving 250K+ daily recommendations  
+
+**📈 Predictive Analytics**: End-to-end ML pipelines for forecasting and optimization
+
+**🔄 ETL Automation**: Scalable data processing systems handling 50M+ rows/day
+
+**📊 Interactive Dashboards**: Real-time analytics platforms with embedded AI insights
+
+## 📫 Let's Connect!
+
+**📧 Email**: jamesduncan@gmail.com
+**📍 Location**: The Dalles, OR
+
+## 🤝 I'm interested in collaborating on:
+
+• Startup Oppotunities
+
+• AI-driven analytics platforms
+
+• Large-scale machine learning systems
+
+• Open source ML tools and frameworks
+
+• Data engineering solutions
+
+• Innovative NLP applications
+
+---
+"Passionate about deploying agentic analytics and machine learning solutions that generate measurable business impact."
