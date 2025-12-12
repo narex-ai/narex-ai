@@ -72,7 +72,6 @@ Welcome to my GitHub! I'm a passionate AI Engineer and Data Scientist with expen
 ## 📫 Let's Connect!
 
 **📧 Email**: narexapollo@gmail.com
-**📍 Location**: The Dalles, OR
 
 ## 🤝 I'm interested in collaborating on:
 
